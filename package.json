@@ -1,0 +1,12 @@
+{
+  "name": "line-client-reminder-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LINE公式アカウント(Messaging API)を使ったクライアント無応答リマインド自動送信システム(Google Apps Script + スプレッドシート)",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
